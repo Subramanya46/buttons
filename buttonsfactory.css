@@ -1,11 +1,11 @@
-/* My Code Starts Here *//
-.mybutton{
-    color: red;!important
-    background-color: greenyellow;!important
-    background-blend-mode: darken;!important
-    font-size: xxx-large;!important
-    
-}
+/* buttonsfactory.CSS 0.01 July 2021 by Subramanya KS */
+
+/* Different Button Sizes*//
+.sk-btn,.sk-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+.sk-btn:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)}
+.sk-btn,.sk-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}   
+.sk-disabled,.sk-btn:disabled,.sk-button:disabled{cursor:not-allowed;opacity:0.3}.sk-disabled *,:disabled *{pointer-events:none}
+.sk-btn.sk-disabled:hover,.sk-btn:disabled:hover{box-shadow:none}
 
 .sk-tiny{font-size:10px!important}
 .sk-xlarge{font-size:24px!important}
