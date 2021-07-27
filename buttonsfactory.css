@@ -1,7 +1,10 @@
 /* My Code Starts Here *//
 .mybutton{
-    color: red;
-    background-color: greenyellow;
-    background-blend-mode: darken;
-    font-size: xxx-large;
+    color: red;!important
+    background-color: greenyellow;!important
+    background-blend-mode: darken;!important
+    font-size: xxx-large;!important
+    
 }
+
+.sk-tiny{font-size:10px!important}
