@@ -19,3 +19,10 @@ h1 {
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid { color: green; }
+
+
+/* My Code Starts Here *//
+.sk-button{
+  color:red;
+  
+}
