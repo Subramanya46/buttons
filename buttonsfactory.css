@@ -30,7 +30,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 .sk-btn,.sk-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}   
 .sk-disabled,.sk-btn:disabled,.sk-button:disabled{cursor:not-allowed;opacity:0.3}.sk-disabled *,:disabled *{pointer-events:none}
 .sk-btn.sk-disabled:hover,.sk-btn:disabled:hover{box-shadow:none}
-
+.sk-btn-india{background-image: linear-gradient(to right, #FF9933 100%, #FFFFFF  51%, #8AFC02  100%)}
 .sk-tiny{font-size:10px!important}
 .sk-xlarge{font-size:24px!important}
 
@@ -110,4 +110,6 @@ hr{
     border:0;
     border-top:1px solid rgba(0,0,0,.1)
 }
-
+.btn-grad {background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%)}
+.btn-grad { margin: 10px; padding: 15px 45px; text-align: center; text-transform: uppercase; transition: 0.5s; background-size: 200% auto; color: white; box-shadow: 0 0 20px #eee; border-radius: 10px; display: block; } 
+.btn-grad:hover { background-position: right center; /* change the direction of the change here */ color: #fff; text-decoration: none; }
